@@ -6,7 +6,7 @@ Solution Engineer 활동을 하며 Client & Server 환경에서 다양한 Applic
 Immutable infrastructure 관련된 기술에 대해 관심을 가지기 시작하였습니다.  
 Docker Container를 사용하여 웹 서비스를 운영 및 웹 배포관련 업무도 진행한 경험이 있습니다.
 
-- [솔루션 회사 이야기 [링크]](https://defact0.github.io/solution/)
+- [솔루션 회사 이야기 [링크]](https://defact0.github.io/2021soultion/)
 
 ## Interest
 
