@@ -1,15 +1,12 @@
 ## Introdue
 
-Solution Engineer 활동을 하며 Client & Server 환경에서 다양한 Application 연동 및 장애처리 경험을 했었고  
-안정적인 배포와 운영을 위하여 설치파일 및 패치파일을 제작 및 배포 업무를 했었습니다.  
-그리고 B2C 사업을 위한 신규 팀에서 Web Development 및 System Engineer 역할을 담당하며  
-Immutable infrastructure 관련된 기술에 대해 관심을 가지기 시작하였습니다.  
-Docker Container를 사용하여 웹 서비스를 운영 및 웹 배포관련 업무도 진행한 경험이 있습니다.
+![](https://defact0.github.io/images/about-image.jpg)
 
-최근에 Cloud Engineer로 활동 하고 있습니다.
+As an experienced professional in cloud managed services and solution engineering,
+I have a proven track record of reliably operating IT systems across various industries.
 
-- [솔루션 회사 이야기 [링크]](https://defact0.github.io/2021soultion/)
-- [Datadog 메트릭 데이터를 CSV 파일로 저장하기 [링크]](https://tech.cloudmt.co.kr/2022/03/28/datadog-log-backup/)
+My passion lies in continuously improving processes and leveraging the latest technologies to enhance overall efficiency and productivity.
+I am adept at providing various solutions to customers technical issues.
 
 ## Interest
 
